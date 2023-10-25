@@ -61,10 +61,6 @@ If you have expertise in any of these areas or other recommendations, please fee
 
 We welcome contributions from the community. Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgements
 
 - NLTK Team for their comprehensive NLP library.
